@@ -166,16 +166,3 @@ ul li a:hover{
 }
 
 
-@media (max-width: 600px) {
-    .container {
-        padding: 10px;
-    }
-    
-    .register-form h2 {
-        font-size: 20px;
-    }
-    
-    .register-form input, .register-form button {
-        font-size: 14px;
-    }
-}
